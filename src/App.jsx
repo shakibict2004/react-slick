@@ -4,10 +4,11 @@ import './App.css'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-import ban from "../../shakib/src/assets/gaza.jpeg"
-import ban1 from "../../shakib/src/assets/gaza1.jpeg"
-import ban2 from "../../shakib/src/assets/gaza2.jpeg"
-import ban3 from "../../shakib/src/assets/gaza3.jpeg"
+import ban from "./assets/gaza.jpeg"
+import ban1 from "./assets/gaza1.jpeg"
+import ban2 from "./assets/gaza2.jpeg"
+import ban3 from "./assets/gaza3.jpeg"
+
 function App() {
   var settings = {
   dots: true,
